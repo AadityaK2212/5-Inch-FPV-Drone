@@ -8,3 +8,29 @@
 <img width="1920" height="1080" alt="Action Photo" src="https://github.com/user-attachments/assets/48e1412e-c82b-4a8d-97c1-54a43e8a5b0c" />
 <img width="1920" height="1080" alt="Light Background" src="https://github.com/user-attachments/assets/6ed2674e-5a30-42ca-9da8-7d8fddeb523d" />
 <img width="1920" height="1080" alt="Clouds Angled" src="https://github.com/user-attachments/assets/030ed218-e9f1-4821-8da1-322080fc51cc" />
+
+
+
+Links to parts on Amazon
+
+https://www.amazon.com/gp/product/B08FZKLYSB/ref=ewc_pr_img_2?smid=A3F6EDYUH20SVD&psc=1
+
+https://www.amazon.com/gp/product/B0G91DVZBN/ref=ewc_pr_img_3?smid=A2OE5I3Y9Y9T1T&psc=1
+
+https://www.amazon.com/gp/product/B08TTCNZX8/ref=ewc_pr_img_4?smid=A399B0GHKF2YQX&th=1
+
+https://www.amazon.com/gp/product/B0FLPMWZ53/ref=ewc_pr_img_5?smid=AQ3S2ZWM7I1CJ&psc=1
+
+https://www.amazon.com/gp/product/B0G6K1WHTV/ref=ewc_pr_img_6?smid=A3BNCMFMTEJ9QY&psc=1
+
+https://www.amazon.com/gp/product/B0GKNHCDSL/ref=ewc_pr_img_7?smid=AHYBUG4B9GJPC&psc=1
+
+https://www.amazon.com/gp/product/B0GKNM6FW4/ref=ewc_pr_img_8?smid=AHYBUG4B9GJPC&psc=1
+
+https://www.amazon.com/gp/product/B0DCF865VC/ref=ewc_pr_img_9?smid=A28WP9KN9H9BC8&psc=1
+
+https://www.amazon.com/gp/product/B0DHCLYRJ5/ref=ewc_pr_img_10?smid=A29RK4N2HLECHH&th=1
+
+https://www.amazon.com/gp/product/B0FMFCTSXV/ref=ewc_pr_img_11?smid=AHYBUG4B9GJPC&psc=1
+
+https://www.amazon.com/gp/product/B09PR55LYF/ref=ewc_pr_img_12?smid=AHYBUG4B9GJPC&psc=1
