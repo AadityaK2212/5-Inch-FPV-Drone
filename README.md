@@ -1,5 +1,5 @@
 # 5-Inch-FPV-Drone
-5-Inch Drone Chassis I made for Stardance. I made the model in Blender, and I originally was going to get it made out of carbon fiber, but that was too expensive, so i'm going to get it 3D printed out of PC instead.
+5-Inch Drone Chassis I made for Stardance. I made the model in Blender, and I originally was going to get it made out of carbon fiber, but that was too expensive, so i'm going to get it 3D printed out of PC instead. the entire frame its together with  M.4 screws, and is custom made for the parts I chose.
 
 <img width="1920" height="1080" alt="Cinematic Light" src="https://github.com/user-attachments/assets/d439770d-f028-48a4-91ce-b7962b4260e0" />
 <img width="1920" height="1080" alt="Cinematic Dark" src="https://github.com/user-attachments/assets/2f6d2604-4087-44fa-b72a-98b359bc35ed" />
